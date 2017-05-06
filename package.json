@@ -1,0 +1,16 @@
+{
+  "name": "website-ecomery",
+  "version": "1.0.0",
+  "description": "Website start up",
+  "main": "server.js",
+  "repository": "github",
+  "script": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nqlong",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "4.0.3"
+  },
+  "devDependencies": {}
+}
